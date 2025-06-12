@@ -25,7 +25,7 @@ Published via Zenodo – June 2025.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sowgato-kumar-bhowmik-0219a22b0)  
 - 📘 [Facebook](https://www.facebook.com/sowgato.kumar.bhowmik)  
 - 🎥 [YouTube](https://youtube.com/@sowgatokumarbhowmik9756?si=0jJTpWdolFA3lXwp)  
-- 📂 [Zenodo Projects](https://zenodo.org/records/search?page=1&size=20&q=Sowgato%20Kumar%20Bhowmik)  
+- 📂 [Zenodo Projects](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)  
 - 🧑‍💻 [GitHub Profile](https://github.com/sowgato84)
 
 ---
